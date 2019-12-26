@@ -1,5 +1,7 @@
 # vue-auth
 
+> https://garslanag.github.io/authorization
+
 > A Vue.js project
 
 ## Build Setup
